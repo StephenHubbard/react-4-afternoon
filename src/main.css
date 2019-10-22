@@ -26,6 +26,10 @@ h1, h2, h3, p {
   outline: none;
 }
 
+.btn:hover {
+  background-color: lightsteelblue;
+}
+
 .box {
   margin: 20px;
   width: calc(100vw - 140px);
